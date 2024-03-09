@@ -1,0 +1,5 @@
+show_level: 1
+detect_level: "fusion"  # radar, cam, fusion
+save_points: False
+save_img: False
+use_point_seg: True
